@@ -1,0 +1,23 @@
+
+.p {
+   padding: 75px;
+  font-weight: 400;
+  font-size: 30px;
+  color: black;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  transform: translateY(-40px);
+  padding-top: 100px;
+
+}
+.h1 {
+   padding: 75px;
+  font-weight: 400;
+  font-size: 70px;
+  color: black;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  transform: translateY(-40px);
+}
